@@ -76,4 +76,4 @@ pnpm build           # 类型检查与前端构建
 
 ## 社区
 
-[Linux.DO](https://linux.do/)
+[Linux.DO](https://linux.do/) 
